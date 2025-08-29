@@ -10,19 +10,18 @@
    ![Profile Views](https://komarev.com/ghpvc/?username=Gyanranjan-Priyam&color=blue)
    [![GitHub followers](https://img.shields.io/github/followers/Gyanranjan-Priyam?label=Follow&style=social)](https://github.com/Gyanranjan-Priyam)
 
-   <a href="https://github.com/Gyanranjan-Priyam" target="_blank">
-      ## 🚀 About Me
+   ## 🚀 About Me
 
-      🎯 **Currently Focusing** on building innovative full-stack applications
+   🎯 **Currently Focusing** on building innovative full-stack applications
 
-      🔭 I'm a passionate **Full-Stack Developer** specializing in modern web technologies
+   🔭 I'm a passionate **Full-Stack Developer** specializing in modern web technologies
 
-      💡 I love creating solutions that make a real impact in education and business management
+   💡 I love creating solutions that make a real impact in education and business management
 
-      🌐 Check out my portfolio: [gyanranjanpriyam.netlify.app](https://gyanranjanpriyam.netlify.app)
+   🌐 Check out my portfolio: [gyanranjanpriyam.netlify.app](https://gyanranjanpriyam.netlify.app)
 
-      📍 Based in India 🇮🇳
-</a>
+   📍 Based in India 🇮🇳
+
 </div>
 ---
 
@@ -63,7 +62,9 @@
 
 ---
 
-<div align="center">>
+<div align="center">
+
+
 ## 💼 What I Do
 
 - 🏗️ **Full-Stack Development:** Building end-to-end web applications
@@ -71,6 +72,8 @@
 - 📊 **Data Management:** Implementing efficient database solutions
 - ⚡ **Performance Optimization:** Ensuring fast and reliable applications
 - 🔧 **System Architecture:** Designing scalable and maintainable code structures
+
+
 </div>
 ---
 
