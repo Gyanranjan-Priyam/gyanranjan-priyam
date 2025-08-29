@@ -53,6 +53,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gyanranjan-Priyam&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>  
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanranjan-Priyam&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
