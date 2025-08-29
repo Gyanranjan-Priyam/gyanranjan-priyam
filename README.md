@@ -3,7 +3,7 @@
   # Hi there, I'm Gyanranjan Priyam! 👋
 </div>
 
-<img alt="Profile Banner" src="https://camo.githubusercontent.com/9aa127e4ccc6105c73df89829816ebb18c2d629394b2ea8c8873a59a3af1cc71/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067">
+<img alt="Profile Banner" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
 
 <div align="center">
 
